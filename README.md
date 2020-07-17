@@ -4,7 +4,6 @@ Thx for visiting my profile! Here are some facts about me:
 
 - I 💙 PHP, especially eCommerce stuff 🛒
 - I'm a community guy who loves to talk on stage and share knowledge 🗣
-- Found me on twitter [@pbl0m](https://twitter.com/pbl0m) 🐦
 - I blog about tech stuff on [my blog](https://www.patrick-blom.de/) and [medium](https://medium.com/@blomsmail) 📝
 - Found me on twitter [@pbl0m](https://twitter.com/pbl0m) 🐦
 - I break stuff at [SHOPMACHER](https://www.shopmacher.de/) 💥
